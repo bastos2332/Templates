@@ -1,0 +1,206 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Apr 2020 03:12:11 at http://demo.acosmin.com/themes/justwrite +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" http://demo.acosmin.com/themes/justwrite -O1 "C:\Users\gabriel\Desktop\Github\TEMPLATES\Template Nasa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:14:37	Error: 	"Method Not Allowed" (405) at link demo.acosmin.com/themes/justwrite/xmlrpc.php (from demo.acosmin.com/themes/justwrite/)
+03:15:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 3224): connect.facebook.net/en_US/all.js
+03:23:58	Error: 	"Not Found" (404) at link demo.acosmin.com/themes/justwrite/wp-content/themes/justwrite/owl.video.play.png (from demo.acosmin.com/themes/justwrite/wp-content/themes/justwrite/style.css?ver=2.0)
+03:23:59	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=253
+03:23:59	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=253 to http://demo.acosmin.com/themes/justwrite/new-simple-page-for-you/
+03:23:59	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=255
+03:23:59	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=255 to http://demo.acosmin.com/themes/justwrite/new-full-width-simple-page/
+03:23:59	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=9
+03:23:59	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=9 to http://demo.acosmin.com/themes/justwrite/typography-and-headings-go-so-well-together-all-the-time/
+03:23:59	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=288
+03:23:59	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=288 to http://demo.acosmin.com/themes/justwrite/widgetized-index/
+03:23:59	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=355
+03:23:59	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=355 to http://demo.acosmin.com/themes/justwrite/slider-1/
+03:23:59	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=357
+03:23:59	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=357 to http://demo.acosmin.com/themes/justwrite/masonry-1/
+03:24:18	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=359
+03:24:18	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=359 to http://demo.acosmin.com/themes/justwrite/masonry-2/
+03:24:18	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=369
+03:24:18	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=369 to http://demo.acosmin.com/themes/justwrite/categories-2-columns/
+03:24:19	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=372
+03:24:19	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=372 to http://demo.acosmin.com/themes/justwrite/categories-3-columns/
+03:24:19	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=374
+03:24:19	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=374 to http://demo.acosmin.com/themes/justwrite/categories-4-columns/
+03:24:19	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=386
+03:24:19	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=386 to http://demo.acosmin.com/themes/justwrite/advertisng/
+03:24:19	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=384
+03:24:19	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=384 to http://demo.acosmin.com/themes/justwrite/archives/
+03:24:19	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=382
+03:24:19	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=382 to http://demo.acosmin.com/themes/justwrite/social-profiles/
+03:24:20	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=380
+03:24:20	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=380 to http://demo.acosmin.com/themes/justwrite/popular-posts/
+03:24:20	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=259
+03:24:20	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=259 to http://demo.acosmin.com/themes/justwrite/fonts-1/
+03:24:20	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=261
+03:24:20	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=261 to http://demo.acosmin.com/themes/justwrite/fonts-2/
+03:24:20	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=263
+03:24:20	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=263 to http://demo.acosmin.com/themes/justwrite/fonts-3/
+03:24:20	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=265
+03:24:20	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=265 to http://demo.acosmin.com/themes/justwrite/fonts-4/
+03:24:20	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=267
+03:24:20	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=267 to http://demo.acosmin.com/themes/justwrite/fonts-5-default/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=269
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=269 to http://demo.acosmin.com/themes/justwrite/fonts-6/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=271
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=271 to http://demo.acosmin.com/themes/justwrite/fonts-7/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=273
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=273 to http://demo.acosmin.com/themes/justwrite/fonts-8/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=275
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=275 to http://demo.acosmin.com/themes/justwrite/fonts-9/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=408
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=408 to http://demo.acosmin.com/themes/justwrite/page-preloader/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=401
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=401 to http://demo.acosmin.com/themes/justwrite/loading-1/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=397
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=397 to http://demo.acosmin.com/themes/justwrite/balls-spinner/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=395
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=395 to http://demo.acosmin.com/themes/justwrite/ball-puls/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=393
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=393 to http://demo.acosmin.com/themes/justwrite/ball-beat/
+03:24:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=315
+03:24:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=315 to http://demo.acosmin.com/themes/justwrite/background-image/
+03:24:22	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=319
+03:24:22	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=319 to http://demo.acosmin.com/themes/justwrite/centered-description/
+03:24:22	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=322
+03:24:22	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=322 to http://demo.acosmin.com/themes/justwrite/align-left-2/
+03:24:22	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=328
+03:24:22	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=328 to http://demo.acosmin.com/themes/justwrite/image-logo/
+03:24:22	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=343
+03:24:22	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=343 to http://demo.acosmin.com/themes/justwrite/728x90px-ad/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=333
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=333 to http://demo.acosmin.com/themes/justwrite/featured-posts-slider/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=292
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=292 to http://demo.acosmin.com/themes/justwrite/align-left/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=294
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=294 to http://demo.acosmin.com/themes/justwrite/no-thumbnail/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=336
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=336 to http://demo.acosmin.com/themes/justwrite/morphing-point/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=301
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=301 to http://demo.acosmin.com/themes/justwrite/fixed-menu/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=304
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=304 to http://demo.acosmin.com/themes/justwrite/mini-sidebar/
+03:24:23	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=307
+03:24:23	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=307 to http://demo.acosmin.com/themes/justwrite/footer-widgets/
+03:24:24	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=420
+03:24:24	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=420 to http://demo.acosmin.com/themes/justwrite/index/
+03:24:24	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=422
+03:24:24	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=422 to http://demo.acosmin.com/themes/justwrite/customizer-post/
+03:24:24	Error: 	"Not Found" (404) at link demo.acosmin.com/D_justwrite/wp-content/uploads/2015/07/asfz-300x200.jpeg (from demo.acosmin.com/themes/justwrite/customizer-post/)
+03:24:24	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=462
+03:24:24	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=462 to http://demo.acosmin.com/themes/justwrite/this-is-a-post-with-a-normal-layout-selected-as-default/
+03:24:26	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=465
+03:24:26	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=465 to http://demo.acosmin.com/themes/justwrite/this-is-a-post-with-a-billboard-layout-selected-as-default/
+03:24:33	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=23
+03:24:33	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=23 to http://demo.acosmin.com/themes/justwrite/html-tags-forms-inputs-and-formatting-examples/
+03:24:33	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=37
+03:24:33	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=37 to http://demo.acosmin.com/themes/justwrite/new-section-widgets-in-a-1-2-3-paginated-post/
+03:24:40	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=28
+03:24:40	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=28 to http://demo.acosmin.com/themes/justwrite/floating-images-and-alignment-showcase-is-here/
+03:24:46	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=40
+03:24:46	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=40 to http://demo.acosmin.com/themes/justwrite/nested-comments-all-around-us-examples/
+03:24:52	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=149
+03:24:52	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=149 to http://demo.acosmin.com/themes/justwrite/boehner-hypercuts-himself-on-isis-comments/
+03:24:53	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=190
+03:24:53	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=190 to http://demo.acosmin.com/themes/justwrite/nintendo-second-quarter-profit-dips-plans/
+03:24:53	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=196
+03:24:53	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=196 to http://demo.acosmin.com/themes/justwrite/bombardier-to-book-writedowns-get-cash-from-quebec/
+03:24:57	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=192
+03:24:57	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=192 to http://demo.acosmin.com/themes/justwrite/bain-capital-to-sell-or-list-clutch-maker-fte/
+03:24:57	Error: 	"Not Found" (404) at link demo.acosmin.com/D_justwrite/wp-content/uploads/2015/07/asfz.jpeg (from demo.acosmin.com/themes/justwrite/bain-capital-to-sell-or-list-clutch-maker-fte/)
+03:24:57	Error: 	"Not Found" (404) at link demo.acosmin.com/D_justwrite/wp-content/uploads/2015/07/asfz-1024x683.jpeg (from demo.acosmin.com/themes/justwrite/bain-capital-to-sell-or-list-clutch-maker-fte/)
+03:24:57	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=194
+03:24:57	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=194 to http://demo.acosmin.com/themes/justwrite/walgreens-cant-assess-divestitures-needed-more/
+03:25:07	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=139
+03:25:07	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=139 to http://demo.acosmin.com/themes/justwrite/death-and-guns-in-the-usa-the-story-in-six-graphs/
+03:25:07	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=137
+03:25:07	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=137 to http://demo.acosmin.com/themes/justwrite/first-on-cnn-doj-closes-irs-investigation-with/
+03:25:08	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=135
+03:25:08	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=135 to http://demo.acosmin.com/themes/justwrite/behind-the-scenes-with-the-commander-of-special-ops/
+03:25:08	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=102
+03:25:08	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=102 to http://demo.acosmin.com/themes/justwrite/army-captain-tackled-suicide-bomber/
+03:25:11	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=100
+03:25:11	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=100 to http://demo.acosmin.com/themes/justwrite/china-says-it-warned-tracked-u-s-warship/
+03:25:21	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=127
+03:25:21	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=127 to http://demo.acosmin.com/themes/justwrite/donald-trump-vs-the-republican-establishment/
+03:25:25	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=125
+03:25:25	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=125 to http://demo.acosmin.com/themes/justwrite/can-the-republican-debate-save-carly-fiorina/
+03:25:25	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=123
+03:25:25	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=123 to http://demo.acosmin.com/themes/justwrite/inside-the-navys-most-lethal-warship/
+03:25:25	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=147
+03:25:25	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=147 to http://demo.acosmin.com/themes/justwrite/netanyahu-on-iran-deal-lets-look-forward/
+03:25:25	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=159
+03:25:25	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=159 to http://demo.acosmin.com/themes/justwrite/heres-why-the-tpp-is-such-a-big-deal/
+03:25:25	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=157
+03:25:25	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=157 to http://demo.acosmin.com/themes/justwrite/epa-boss-climate-change-could-kill-thousands/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=114
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=114 to http://demo.acosmin.com/themes/justwrite/hastert-pleads-guilty-to-lying-to-investigators/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=112
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=112 to http://demo.acosmin.com/themes/justwrite/newspaper-to-rubio-show-up-or-resign/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=170
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=170 to http://demo.acosmin.com/themes/justwrite/icahn-takes-stake-in-aig-calls-for-breakup/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=168
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=168 to http://demo.acosmin.com/themes/justwrite/officer-fired-after-violent-classroom-arrest/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=176
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=176 to http://demo.acosmin.com/themes/justwrite/apple-defies-china-slowdown-with-strong-iphone/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=174
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=174 to http://demo.acosmin.com/themes/justwrite/miners-with-lung-disease-get-help-at-china-facility/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=172
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=172 to http://demo.acosmin.com/themes/justwrite/primaries-keep-gop-from-winning-white-house/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=183
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=183 to http://demo.acosmin.com/themes/justwrite/fed-statement-awaited-apple-energy-stocks-shine/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=181
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=181 to http://demo.acosmin.com/themes/justwrite/budget-deal-cuts-10-year-deficits-by-80-billion/
+03:25:28	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=179
+03:25:28	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=179 to http://demo.acosmin.com/themes/justwrite/white-house-urges-congress-to-finalize-cyber-bill/
+03:25:34	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/tag/comments/feed/
+03:25:34	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/tag/comments/feed/ to http://demo.acosmin.com/themes/justwrite/tag/feed/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=467
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=467 to http://demo.acosmin.com/themes/justwrite/this-is-a-post-with-a-billboard-parallax-layout-selected-as-default/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=98
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=98 to http://demo.acosmin.com/themes/justwrite/parents-complain-over-teachers-bodybuilding-pictures/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=96
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=96 to http://demo.acosmin.com/themes/justwrite/u-s-weighing-direct-action-on-the-ground-in-iraq/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=145
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=145 to http://demo.acosmin.com/themes/justwrite/routine-listen-to-the-most-frustrated-americans-of-all/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=143
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=143 to http://demo.acosmin.com/themes/justwrite/driven-to-death-by-phone-scammers/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=155
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=155 to http://demo.acosmin.com/themes/justwrite/how-do-gay-rights-look-in-your-country/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=153
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=153 to http://demo.acosmin.com/themes/justwrite/how-fifa-hid-a-most-pernicious-evil/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=110
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=110 to http://demo.acosmin.com/themes/justwrite/senate-advances-defense-bill-despite-veto-threat/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=107
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=107 to http://demo.acosmin.com/themes/justwrite/technology-keen-eyes-hope-on-coast-guard-search-flight/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=133
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=133 to http://demo.acosmin.com/themes/justwrite/marco-rubio-defends-police-against-hostile-rhetoric/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=131
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=131 to http://demo.acosmin.com/themes/justwrite/house-republicans-move-to-impeach-irs-head/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=141
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=141 to http://demo.acosmin.com/themes/justwrite/graham-on-the-undercard-debate-i-think-it-sucks/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=105
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=105 to http://demo.acosmin.com/themes/justwrite/behind-the-scenes-with-commander-of-special-ops/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=120
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=120 to http://demo.acosmin.com/themes/justwrite/presidential-places-reagans-ranch-in-the-sky/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=118
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=118 to http://demo.acosmin.com/themes/justwrite/the-best-of-donald-trump-vs-jeb-bush/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=129
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=129 to http://demo.acosmin.com/themes/justwrite/six-things-to-watch-at-the-republican-debate/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=151
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=151 to http://demo.acosmin.com/themes/justwrite/he-got-to-witness-the-longest-day/
+03:25:39	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=116
+03:25:39	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=116 to http://demo.acosmin.com/themes/justwrite/the-political-sensibility-of-saul-williams/
+03:25:42	Warning: 	Moved Permanently for demo.acosmin.com/themes/justwrite/?p=94
+03:25:42	Warning: 	File has moved from demo.acosmin.com/themes/justwrite/?p=94 to http://demo.acosmin.com/themes/justwrite/poets-to-get-99-lashes-for-handshakes/
+03:25:42	Error: 	"Not Found" (404) at link demo.acosmin.com/themes/justwrite/tag/feed/ (from demo.acosmin.com/themes/justwrite/tag/comments/feed/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 37 seconds : 995 links scanned, 894 files written (41497701 bytes overall) [16143039 bytes received at 19758 bytes/sec], 30811085 bytes transferred using HTTP compression in 496 files, ratio 16%, 5.8 requests per connection
+(6 errors, 189 warnings, 0 messages)

@@ -1,2 +1,0 @@
-# Templates
-Repositório de templates
